@@ -1,14 +1,14 @@
 # sparx
 Created to be used to buy stuff. We dont care about exchanges listing at all.
-- Yes,  Its a copy of bitcoin but at least its not POS.
+- At least its not a POS.
 
 Well, 
 Like the slogan suggest this cryptocurrency is intented to be money.
 
 Basic principles:
 
-- Avoid being listed by exchanges.
-- Focus on finding partners that will acept it as payment.
+- To avoid being listed by exchanges.
+- To seek to build bridges and partners that will acept it as payment.
   - Step One is to create faucets.
   - Step two find partner to accept Sparx as payment for their services.
       - First targets:
