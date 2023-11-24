@@ -4,6 +4,7 @@ Created to be used to buy stuff. We dont care about exchanges listing at all.
 
 Well, 
 Like the slogan suggest this cryptocurrency is intented to me money.
+
 Basic principles:
 
 - Avoid being listed by exchanges.
@@ -14,6 +15,7 @@ Basic principles:
       - Webhost services
       - Ad networks
 - Do you have an idea to motivate people to use/buy the Sparx even not being listed on exchanges? yes, we do.
+  
   The focus of the (future) team will be 90% on creating partnership so we can create value for the coin in a nature way;
 - Its a currency its not a token.
 - Its not intented to be a "trade-friendly currency".
