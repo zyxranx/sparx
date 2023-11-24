@@ -3,7 +3,7 @@ Created to be used to buy stuff. We dont care about exchanges listing at all.
 - Yes,  Its a copy of bitcoin but at least its not POS.
 
 Well, 
-Like the slogan suggest this cryptocurrency is intented to me money.
+Like the slogan suggest this cryptocurrency is intented to be money.
 
 Basic principles:
 
